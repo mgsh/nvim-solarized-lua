@@ -1,5 +1,5 @@
 # Changes applied after fork
-1. Changed Diagnostics highlights to use undercurl (was underline)
+1. Changed DiagnosticUnderline highlights to use undercurl instead.
 
 # Solarized Neovim
 
