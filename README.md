@@ -1,3 +1,6 @@
+# Changes applied after fork
+1. Changed Diagnostics highlights to use undercurl (was underline)
+
 # Solarized Neovim
 
 This aims to be a complete port [vim-solarized8](https://github.com/lifepillar/vim-solarized8) with support for lua
